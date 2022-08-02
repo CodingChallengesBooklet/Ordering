@@ -23,6 +23,7 @@ However, some languages do not have these features, and so, the pseudocode here 
 The algorithm loops over the list, gets the biggest number in the list, removes it from the list, and adds it to a new list.
 Since the biggest number is removed everytime, we will get the next biggest number on every loop through the list.
 Adding the biggest to a new list would mean the biggest numbers are first in the list and the smallest are last.
+
 *NOTE: for ascending this is the same but with the smallest number everytime instead of the biggest.*
 
 So to get started, we create and empty list to store our ten numbers then get an input 10 times and add each number to our list of numbers.
