@@ -1,5 +1,5 @@
 # Ordering
-A brief description of what the code challenge is about.
+In this code challenge we create a program that sort a list of integers into ascending or descending order.
 
 ![GitHub followers](https://img.shields.io/github/followers/hrszpuk?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/hrszpuk?style=social)
